@@ -1,0 +1,10 @@
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee.exe.config
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee.exe
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee.pdb
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee1.dll
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\bin\Debug\HouseOfCoffee1.pdb
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.csprojAssemblyReference.cache
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.csproj.CopyComplete
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.exe
+C:\Users\Christopher Clute\OneDrive\MSSA\Labs\ISTA 220 Lab 5B House of Coffee Program using structures and enumerations\HouseOfCoffee\HouseOfCoffee\obj\Debug\HouseOfCoffee.pdb
